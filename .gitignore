@@ -1,8 +1,5 @@
-# Ignore everything
+# Ignore everything in the repository root
 /*
-
-# also in subdirectories
-/*/
 
 # Except for (add what you want to track)
 !README.md
@@ -15,18 +12,20 @@
 !/Output/
 !/Resources/
 
-# Ignore everything in freeze (even if in Except)
-freeze/
 
-# Make sure the following is alway ignored even if in Except
+# Always ignore these directories/files
+freeze/
 MS/
 Output/tree_for_Inkscape.pdf
 .DS_Store
+.history/
 *_cache/
 *_files/
 
 MS_files/
 MS_cache/
+
+# Ignore large files stored externally on OSF
 Data/DAT_rangeMapper.sqlite
 Data/DAT_rangeMapper_all.sqlite
 
