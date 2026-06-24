@@ -32,7 +32,7 @@ When referring to or reusing these materials, **please cite** our [Bulla et al. 
 
 [Output](Output/) stores separate files of all outputs used in the manuscript:
 - [HTML of the Supporting information](Output/SI.html).
-- *SVG* of Inkscape polished Fig. 2.
+- SVG of Inkscape polished Fig. 2.
 - CSVs of the tables.
 - [model assumptions](Output/modelAss) folder contains diagnostic outputs for all fitted models.
 - [model outputs](Output/est_out) folder stores model output files for reproducible reporting, i.e. table generation.
