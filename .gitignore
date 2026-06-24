@@ -16,11 +16,15 @@
 # Always ignore these directories/files
 freeze/
 MS/
+Data/freeze/
+R/freeze/
+Output/freeze/
 Output/tree_for_Inkscape.pdf
 .DS_Store
 .history/
 *_cache/
 *_files/
+*.sqlite
 
 MS_files/
 MS_cache/
@@ -28,5 +32,6 @@ MS_cache/
 # Ignore large files stored externally on OSF
 Data/DAT_rangeMapper.sqlite
 Data/DAT_rangeMapper_all.sqlite
+
 
 # End
