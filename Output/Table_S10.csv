@@ -1,0 +1,13 @@
+term,type,estimate,95%CI,N
+Intercept,fixed,0.159,-0.088 - 0.404,679
+Clade S r O,fixed,-0.765,-1.286 - -0.243,679
+Migration,fixed,0.131,0.042 - 0.221,679
+Residual brain mass,fixed,-0.113,-0.216 - -0.01,679
+Migration S r O,fixed,-0.104,-0.316 - 0.099,679
+Residual brain mass S r O,fixed,0.134,-0.108 - 0.365,679
+genus:family:superfamily:parvorder:infraorder (Intercept),random,17%,16% - 18%,679
+family:superfamily:parvorder:infraorder (Intercept),random,29%,27% - 31%,679
+superfamily:parvorder:infraorder (Intercept),random,3%,2% - 5%,679
+parvorder,random,0%,0% - 0%,679
+infraorder,random,1%,1% - 3%,679
+residual variance,random,49%,45% - 53%,679

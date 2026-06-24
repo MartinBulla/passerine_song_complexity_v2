@@ -1,0 +1,22 @@
+name,term,type,estimate,95%CI,N
+Residual brain mass,Intercept,fixed,0.146,-0.112 - 0.414,679
+Residual brain mass,Clade S r O,fixed,-0.776,-1.314 - -0.236,679
+Residual brain mass,Residual brain mass,fixed,-0.155,-0.255 - -0.06,679
+Residual brain mass,Residual brain mass S r O,fixed,0.168,-0.059 - 0.408,679
+Residual brain mass,genus:family:superfamily:parvorder:infraorder (Intercept),random,17%,16% - 17%,679
+Residual brain mass,family:superfamily:parvorder:infraorder (Intercept),random,30%,27% - 31%,679
+Residual brain mass,superfamily:parvorder:infraorder (Intercept),random,4%,3% - 5%,679
+Residual brain mass,parvorder,random,0%,0% - 0%,679
+Residual brain mass,infraorder,random,2%,1% - 4%,679
+Residual brain mass,residual variance,random,48%,44% - 53%,679
+Brain mass,Intercept,fixed,0.145,-0.196 - 0.499,679
+Brain mass,Clade S r O,fixed,-0.783,-1.461 - -0.105,679
+Brain mass,Brain mass,fixed,-0.097,-0.207 - 0.008,679
+Brain mass,Brain mass S r O,fixed,0.124,-0.29 - 0.559,679
+Brain mass,Brain mass S r O,fixed,0.124,-0.29 - 0.559,679
+Brain mass,genus:family:superfamily:parvorder:infraorder (Intercept),random,16%,15% - 17%,679
+Brain mass,family:superfamily:parvorder:infraorder (Intercept),random,28%,26% - 28%,679
+Brain mass,superfamily:parvorder:infraorder (Intercept),random,5%,3% - 6%,679
+Brain mass,parvorder,random,0%,0% - 0%,679
+Brain mass,infraorder,random,5%,2% - 10%,679
+Brain mass,residual variance,random,46%,41% - 51%,679

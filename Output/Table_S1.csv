@@ -1,0 +1,249 @@
+model,term,type,estimate,95%CI,N
+"Taxonomic, multivariate",Intercept,fixed,0.056,-0.193 - 0.31,4323
+"Taxonomic, multivariate",Clade S r O,fixed,-0.874,-1.314 - -0.422,4323
+"Taxonomic, multivariate",Sexual size dimorphism,fixed,0.009,-0.018 - 0.037,4323
+"Taxonomic, multivariate",Sexual color dimorphism,fixed,-0.006,-0.045 - 0.033,4323
+"Taxonomic, multivariate",Male-like coloration,fixed,0.012,-0.028 - 0.052,4323
+"Taxonomic, multivariate",Degree of polygyny,fixed,0.01,-0.034 - 0.057,4323
+"Taxonomic, multivariate",Social bond,fixed,0.008,-0.035 - 0.052,4323
+"Taxonomic, multivariate",Territoriality,fixed,-0.006,-0.049 - 0.036,4323
+"Taxonomic, multivariate",Absolute latitude,fixed,0.009,-0.03 - 0.047,4323
+"Taxonomic, multivariate",Altitude,fixed,0.022,-0.01 - 0.052,4323
+"Taxonomic, multivariate",Habitat generalism,fixed,0.041,0.013 - 0.07,4323
+"Taxonomic, multivariate",Tree cover,fixed,-0.073,-0.104 - -0.041,4323
+"Taxonomic, multivariate",Migration,fixed,0.051,0.014 - 0.086,4323
+"Taxonomic, multivariate",Species richness,fixed,0.031,-0.009 - 0.07,4323
+"Taxonomic, multivariate",Sexual size dimorphism S r O,fixed,-0.037,-0.095 - 0.022,4323
+"Taxonomic, multivariate",Sexual color dimorphism S r O,fixed,0.032,-0.066 - 0.126,4323
+"Taxonomic, multivariate",Male-like coloration S r O,fixed,-0.045,-0.139 - 0.051,4323
+"Taxonomic, multivariate",Degree of polygyny S r O,fixed,-0.038,-0.132 - 0.056,4323
+"Taxonomic, multivariate",Social bond S r O,fixed,-0.004,-0.101 - 0.1,4323
+"Taxonomic, multivariate",Territoriality S r O,fixed,-0.076,-0.174 - 0.018,4323
+"Taxonomic, multivariate",Absolute latitude S r O,fixed,-0.003,-0.096 - 0.087,4323
+"Taxonomic, multivariate",Altitude S r O,fixed,-0.028,-0.09 - 0.036,4323
+"Taxonomic, multivariate",Habitat generalism S r O,fixed,-0.019,-0.09 - 0.05,4323
+"Taxonomic, multivariate",Tree cover S r O,fixed,0.051,-0.019 - 0.122,4323
+"Taxonomic, multivariate",Migration S r O,fixed,-0.034,-0.129 - 0.064,4323
+"Taxonomic, multivariate",Species richness S r O,fixed,-0.05,-0.124 - 0.023,4323
+"Taxonomic, multivariate",genus:family:superfamily:parvorder:infraorder (Intercept),random,26%,25% - 27%,4323
+"Taxonomic, multivariate",family:superfamily:parvorder:infraorder (Intercept),random,16%,14% - 18%,4323
+"Taxonomic, multivariate",superfamily:parvorder:infraorder (Intercept),random,4%,2% - 5%,4323
+"Taxonomic, multivariate",parvorder,random,3%,1% - 5%,4323
+"Taxonomic, multivariate",infraorder,random,0%,0% - 0%,4323
+"Taxonomic, multivariate",residual variance,random,51%,47% - 55%,4323
+"Taxonomic, heteroscedasticity control",Intercept,fixed,0.066,-0.192 - 0.319,4323
+"Taxonomic, heteroscedasticity control",Clade S r O,fixed,-0.912,-1.355 - -0.47,4323
+"Taxonomic, heteroscedasticity control",Sexual size dimorphism,fixed,0.009,-0.021 - 0.038,4323
+"Taxonomic, heteroscedasticity control",Sexual color dimorphism,fixed,-0.005,-0.047 - 0.036,4323
+"Taxonomic, heteroscedasticity control",Male-like coloration,fixed,0.01,-0.032 - 0.053,4323
+"Taxonomic, heteroscedasticity control",Degree of polygyny,fixed,0.012,-0.037 - 0.061,4323
+"Taxonomic, heteroscedasticity control",Social bond,fixed,0.008,-0.038 - 0.054,4323
+"Taxonomic, heteroscedasticity control",Territoriality,fixed,-0.005,-0.049 - 0.038,4323
+"Taxonomic, heteroscedasticity control",Absolute latitude,fixed,0.009,-0.032 - 0.05,4323
+"Taxonomic, heteroscedasticity control",Altitude,fixed,0.021,-0.012 - 0.054,4323
+"Taxonomic, heteroscedasticity control",Habitat generalism,fixed,0.042,0.011 - 0.073,4323
+"Taxonomic, heteroscedasticity control",Tree cover,fixed,-0.075,-0.108 - -0.041,4323
+"Taxonomic, heteroscedasticity control",Migration,fixed,0.053,0.013 - 0.092,4323
+"Taxonomic, heteroscedasticity control",Species richness,fixed,0.032,-0.01 - 0.074,4323
+"Taxonomic, heteroscedasticity control",Sexual size dimorphism S r O,fixed,-0.039,-0.086 - 0.007,4323
+"Taxonomic, heteroscedasticity control",Sexual color dimorphism S r O,fixed,0.028,-0.047 - 0.101,4323
+"Taxonomic, heteroscedasticity control",Male-like coloration S r O,fixed,-0.043,-0.116 - 0.031,4323
+"Taxonomic, heteroscedasticity control",Degree of polygyny S r O,fixed,-0.027,-0.109 - 0.052,4323
+"Taxonomic, heteroscedasticity control",Social bond S r O,fixed,-0.009,-0.089 - 0.072,4323
+"Taxonomic, heteroscedasticity control",Territoriality S r O,fixed,-0.059,-0.135 - 0.02,4323
+"Taxonomic, heteroscedasticity control",Absolute latitude S r O,fixed,0,-0.071 - 0.071,4323
+"Taxonomic, heteroscedasticity control",Altitude S r O,fixed,-0.029,-0.081 - 0.02,4323
+"Taxonomic, heteroscedasticity control",Habitat generalism S r O,fixed,-0.022,-0.077 - 0.032,4323
+"Taxonomic, heteroscedasticity control",Tree cover S r O,fixed,0.055,0 - 0.11,4323
+"Taxonomic, heteroscedasticity control",Species richness S r O,fixed,-0.047,-0.106 - 0.012,4323
+"Taxonomic, heteroscedasticity control",heteroscedasticity,random,37%,34% - 39%,4323
+"Taxonomic, heteroscedasticity control",genus:family:superfamily:parvorder:infraorder (Intercept),random,21%,20% - 21%,4323
+"Taxonomic, heteroscedasticity control",family:superfamily:parvorder:infraorder (Intercept),random,15%,13% - 16%,4323
+"Taxonomic, heteroscedasticity control",superfamily:parvorder:infraorder (Intercept),random,3%,2% - 4%,4323
+"Taxonomic, heteroscedasticity control",Migration S r O,fixed,-0.039,-0.113 - 0.035,4323
+"Taxonomic, heteroscedasticity control",parvorder,random,3%,2% - 5%,4323
+"Taxonomic, heteroscedasticity control",infraorder,random,0%,0% - 0%,4323
+"Taxonomic, heteroscedasticity control",residual variance,random,22%,20% - 24%,4323
+PGLS,Intercept,fixed,0.166,-0.813 - 1.145,4323
+PGLS,Clade S r O,fixed,-1.061,-2.307 - 0.186,4323
+PGLS,Sexual size dimorphism,fixed,0.007,-0.02 - 0.033,4323
+PGLS,Sexual color dimorphism,fixed,-0.014,-0.053 - 0.024,4323
+PGLS,Male-like coloration,fixed,0.01,-0.029 - 0.049,4323
+PGLS,Degree of polygyny,fixed,0.022,-0.023 - 0.068,4323
+PGLS,Social bond,fixed,0.01,-0.033 - 0.052,4323
+PGLS,Territoriality,fixed,0.01,-0.03 - 0.049,4323
+PGLS,Absolute latitude,fixed,0.018,-0.021 - 0.056,4323
+PGLS,Altitude,fixed,0.022,-0.008 - 0.053,4323
+PGLS,Habitat generalism,fixed,0.041,0.012 - 0.069,4323
+PGLS,Tree cover,fixed,-0.061,-0.092 - -0.03,4323
+PGLS,Migration,fixed,0.05,0.014 - 0.087,4323
+PGLS,Species richness,fixed,0.032,-0.006 - 0.071,4323
+PGLS,Sexual size dimorphism S r O,fixed,-0.027,-0.082 - 0.029,4323
+PGLS,Sexual color dimorphism S r O,fixed,0.045,-0.051 - 0.141,4323
+PGLS,Male-like coloration S r O,fixed,-0.043,-0.134 - 0.049,4323
+PGLS,Degree of polygyny S r O,fixed,-0.036,-0.126 - 0.053,4323
+PGLS,Social bond S r O,fixed,0.011,-0.082 - 0.104,4323
+PGLS,Territoriality S r O,fixed,-0.05,-0.145 - 0.045,4323
+PGLS,Absolute latitude S r O,fixed,0.004,-0.087 - 0.095,4323
+PGLS,Altitude S r O,fixed,-0.031,-0.092 - 0.03,4323
+PGLS,Habitat generalism S r O,fixed,-0.029,-0.099 - 0.04,4323
+PGLS,Tree cover S r O,fixed,0.051,-0.019 - 0.121,4323
+PGLS,Migration S r O,random,-0.039,-0.132 - 0.055,4323
+PGLS,Species richness S r O,"",-0.053,-0.124 - 0.018,4323
+PGLS,Pagel's λ,"",0.75,"",4323
+"Taxonomic, Oscines",Intercept,fixed,-0.184,-0.468 - 0.101,3278
+"Taxonomic, Oscines",Sexual size dimorphism,fixed,0.01,-0.02 - 0.041,3278
+"Taxonomic, Oscines",Sexual color dimorphism,fixed,-0.004,-0.047 - 0.04,3278
+"Taxonomic, Oscines",Male-like coloration,fixed,0.008,-0.035 - 0.051,3278
+"Taxonomic, Oscines",Degree of polygyny,fixed,0.008,-0.034 - 0.051,3278
+"Taxonomic, Oscines",Social bond,fixed,0.006,-0.038 - 0.051,3278
+"Taxonomic, Oscines",Territoriality,fixed,-0.008,-0.052 - 0.035,3278
+"Taxonomic, Oscines",Absolute latitude,fixed,0.022,-0.021 - 0.065,3278
+"Taxonomic, Oscines",Altitude,fixed,0.03,-0.002 - 0.063,3278
+"Taxonomic, Oscines",Habitat generalism,fixed,0.051,0.019 - 0.083,3278
+"Taxonomic, Oscines",Migration,fixed,0.048,0.005 - 0.091,3278
+"Taxonomic, Oscines",Species richness,fixed,0.014,-0.022 - 0.052,3278
+"Taxonomic, Oscines",genus:family:superfamily:parvorder:infraorder (Intercept),random,28%,27% - 29%,3278
+"Taxonomic, Oscines",family:superfamily:parvorder:infraorder (Intercept),random,14%,12% - 15%,3278
+"Taxonomic, Oscines",superfamily:parvorder:infraorder (Intercept),random,4%,2% - 5%,3278
+"Taxonomic, Oscines",parvorder,random,4%,2% - 7%,3278
+"Taxonomic, Oscines",infraorder,random,0%,0% - 0%,3278
+"Taxonomic, Oscines",residual variance,random,51%,46% - 55%,3278
+"Taxonomic, Suboscines",Intercept,fixed,-0.179,-0.53 - 0.166,1045
+"Taxonomic, Suboscines",Sexual size dimorphism,fixed,-0.041,-0.097 - 0.013,1045
+"Taxonomic, Suboscines",Sexual color dimorphism,fixed,0.041,-0.054 - 0.138,1045
+"Taxonomic, Suboscines",Male-like coloration,fixed,-0.059,-0.152 - 0.032,1045
+"Taxonomic, Suboscines",Degree of polygyny,fixed,-0.088,-0.212 - 0.037,1045
+"Taxonomic, Suboscines",Social bond,fixed,0.01,-0.106 - 0.128,1045
+"Taxonomic, Suboscines",Territoriality,fixed,-0.151,-0.26 - -0.042,1045
+"Taxonomic, Suboscines",Absolute latitude,fixed,0.01,-0.062 - 0.083,1045
+"Taxonomic, Suboscines",Altitude,fixed,-0.01,-0.077 - 0.055,1045
+"Taxonomic, Suboscines",Habitat generalism,fixed,0.041,-0.02 - 0.1,1045
+"Taxonomic, Suboscines",Migration,fixed,0.022,-0.048 - 0.092,1045
+"Taxonomic, Suboscines",Species richness,fixed,-0.045,-0.117 - 0.027,1045
+"Taxonomic, Suboscines",genus:family:superfamily:parvorder:infraorder (Intercept),random,31%,28% - 31%,1045
+"Taxonomic, Suboscines",family:superfamily:parvorder:infraorder (Intercept),random,4%,2% - 6%,1045
+"Taxonomic, Suboscines",superfamily:parvorder:infraorder (Intercept),random,1%,0% - 1%,1045
+"Taxonomic, Suboscines",parvorder,random,5%,1% - 13%,1045
+"Taxonomic, Suboscines",infraorder,random,0%,0% - 0%,1045
+"Taxonomic, Suboscines",residual variance,random,60%,51% - 66%,1045
+"Taxonomic, univariate - Sexual size dimorphism",Intercept,fixed,0.01,-0.244 - 0.265,4551
+"Taxonomic, univariate - Sexual size dimorphism",Clade S r O,fixed,-0.889,-1.319 - -0.447,4551
+"Taxonomic, univariate - Sexual size dimorphism",Sexual size dimorphism,fixed,0.012,-0.013 - 0.039,4551
+"Taxonomic, univariate - Sexual size dimorphism",Sexual size dimorphism S r O,fixed,-0.044,-0.099 - 0.012,4551
+"Taxonomic, univariate - Sexual size dimorphism",genus:family:superfamily:parvorder:infraorder (Intercept),random,28%,27% - 29%,4551
+"Taxonomic, univariate - Sexual size dimorphism",family:superfamily:parvorder:infraorder (Intercept),random,16%,14% - 18%,4551
+"Taxonomic, univariate - Sexual size dimorphism",superfamily:parvorder:infraorder (Intercept),random,1%,1% - 2%,4551
+"Taxonomic, univariate - Sexual size dimorphism",parvorder,random,4%,2% - 7%,4551
+"Taxonomic, univariate - Sexual size dimorphism",infraorder,random,0%,0% - 0%,4551
+"Taxonomic, univariate - Sexual size dimorphism",residual variance,random,51%,47% - 54%,4551
+"Taxonomic, univariate - Sexual color dimorphism",Intercept,fixed,0.008,-0.244 - 0.267,4840
+"Taxonomic, univariate - Sexual color dimorphism",Clade S r O,fixed,-0.872,-1.343 - -0.426,4840
+"Taxonomic, univariate - Sexual color dimorphism",Sexual color dimorphism,fixed,0.011,-0.019 - 0.042,4840
+"Taxonomic, univariate - Sexual color dimorphism",Sexual color dimorphism S r O,fixed,-0.001,-0.076 - 0.071,4840
+"Taxonomic, univariate - Sexual color dimorphism",genus:family:superfamily:parvorder:infraorder (Intercept),random,27%,26% - 28%,4840
+"Taxonomic, univariate - Sexual color dimorphism",family:superfamily:parvorder:infraorder (Intercept),random,15%,13% - 16%,4840
+"Taxonomic, univariate - Sexual color dimorphism",superfamily:parvorder:infraorder (Intercept),random,2%,2% - 3%,4840
+"Taxonomic, univariate - Sexual color dimorphism",parvorder,random,4%,2% - 8%,4840
+"Taxonomic, univariate - Sexual color dimorphism",infraorder,random,0%,0% - 0%,4840
+"Taxonomic, univariate - Sexual color dimorphism",residual variance,random,52%,47% - 56%,4840
+"Taxonomic, univariate - Male-like coloration",Intercept,fixed,0.006,-0.247 - 0.268,4840
+"Taxonomic, univariate - Male-like coloration",Clade S r O,fixed,-0.866,-1.339 - -0.419,4840
+"Taxonomic, univariate - Male-like coloration",Male-like coloration,fixed,0.007,-0.024 - 0.04,4840
+"Taxonomic, univariate - Male-like coloration",Male-like coloration S r O,fixed,-0.028,-0.101 - 0.044,4840
+"Taxonomic, univariate - Male-like coloration",genus:family:superfamily:parvorder:infraorder (Intercept),random,27%,26% - 28%,4840
+"Taxonomic, univariate - Male-like coloration",family:superfamily:parvorder:infraorder (Intercept),random,15%,13% - 16%,4840
+"Taxonomic, univariate - Male-like coloration",superfamily:parvorder:infraorder (Intercept),random,2%,2% - 3%,4840
+"Taxonomic, univariate - Male-like coloration",parvorder,random,4%,2% - 8%,4840
+"Taxonomic, univariate - Male-like coloration",infraorder,random,0%,0% - 0%,4840
+"Taxonomic, univariate - Male-like coloration",residual variance,random,52%,47% - 56%,4840
+"Taxonomic, univariate - Degree of polygyny",Intercept,fixed,-0.002,-0.269 - 0.249,4876
+"Taxonomic, univariate - Degree of polygyny",Clade S r O,fixed,-0.835,-1.304 - -0.377,4876
+"Taxonomic, univariate - Degree of polygyny",Degree of polygyny,fixed,0.023,-0.017 - 0.064,4876
+"Taxonomic, univariate - Degree of polygyny",Degree of polygyny S r O,fixed,-0.042,-0.115 - 0.032,4876
+"Taxonomic, univariate - Degree of polygyny",genus:family:superfamily:parvorder:infraorder (Intercept),random,27%,26% - 28%,4876
+"Taxonomic, univariate - Degree of polygyny",family:superfamily:parvorder:infraorder (Intercept),random,14%,13% - 16%,4876
+"Taxonomic, univariate - Degree of polygyny",superfamily:parvorder:infraorder (Intercept),random,2%,2% - 3%,4876
+"Taxonomic, univariate - Degree of polygyny",parvorder,random,5%,2% - 8%,4876
+"Taxonomic, univariate - Degree of polygyny",infraorder,random,0%,0% - 0%,4876
+"Taxonomic, univariate - Degree of polygyny",residual variance,random,51%,47% - 55%,4876
+"Taxonomic, univariate - Social bond",Intercept,fixed,0.006,-0.254 - 0.257,4904
+"Taxonomic, univariate - Social bond",Clade S r O,fixed,-0.877,-1.329 - -0.42,4904
+"Taxonomic, univariate - Social bond",Social bond,fixed,-0.023,-0.056 - 0.012,4904
+"Taxonomic, univariate - Social bond",Social bond S r O,fixed,0.001,-0.076 - 0.075,4904
+"Taxonomic, univariate - Social bond",genus:family:superfamily:parvorder:infraorder (Intercept),random,27%,26% - 28%,4904
+"Taxonomic, univariate - Social bond",family:superfamily:parvorder:infraorder (Intercept),random,14%,13% - 16%,4904
+"Taxonomic, univariate - Social bond",superfamily:parvorder:infraorder (Intercept),random,3%,2% - 4%,4904
+"Taxonomic, univariate - Social bond",parvorder,random,4%,2% - 7%,4904
+"Taxonomic, univariate - Social bond",infraorder,random,0%,0% - 0%,4904
+"Taxonomic, univariate - Social bond",residual variance,random,52%,48% - 56%,4904
+"Taxonomic, univariate - Territoriality",Intercept,fixed,0.011,-0.244 - 0.256,4904
+"Taxonomic, univariate - Territoriality",Clade S r O,fixed,-0.872,-1.316 - -0.426,4904
+"Taxonomic, univariate - Territoriality",Territoriality,fixed,-0.015,-0.052 - 0.023,4904
+"Taxonomic, univariate - Territoriality",Territoriality S r O,fixed,-0.051,-0.139 - 0.035,4904
+"Taxonomic, univariate - Territoriality",genus:family:superfamily:parvorder:infraorder (Intercept),random,27%,26% - 28%,4904
+"Taxonomic, univariate - Territoriality",family:superfamily:parvorder:infraorder (Intercept),random,15%,13% - 16%,4904
+"Taxonomic, univariate - Territoriality",superfamily:parvorder:infraorder (Intercept),random,2%,2% - 3%,4904
+"Taxonomic, univariate - Territoriality",parvorder,random,4%,2% - 6%,4904
+"Taxonomic, univariate - Territoriality",infraorder,random,0%,0% - 0%,4904
+"Taxonomic, univariate - Territoriality",residual variance,random,52%,48% - 56%,4904
+"Taxonomic, univariate - Absolute latitude",Intercept,fixed,-0.002,-0.248 - 0.252,4940
+"Taxonomic, univariate - Absolute latitude",Clade S r O,fixed,-0.845,-1.307 - -0.411,4940
+"Taxonomic, univariate - Absolute latitude",Absolute latitude,fixed,0.052,0.025 - 0.079,4940
+"Taxonomic, univariate - Absolute latitude",Absolute latitude S r O,fixed,-0.002,-0.07 - 0.065,4940
+"Taxonomic, univariate - Absolute latitude",genus:family:superfamily:parvorder:infraorder (Intercept),random,27%,26% - 28%,4940
+"Taxonomic, univariate - Absolute latitude",family:superfamily:parvorder:infraorder (Intercept),random,14%,13% - 16%,4940
+"Taxonomic, univariate - Absolute latitude",superfamily:parvorder:infraorder (Intercept),random,3%,2% - 4%,4940
+"Taxonomic, univariate - Absolute latitude",parvorder,random,4%,2% - 7%,4940
+"Taxonomic, univariate - Absolute latitude",infraorder,random,0%,0% - 0%,4940
+"Taxonomic, univariate - Absolute latitude",residual variance,random,52%,48% - 56%,4940
+"Taxonomic, univariate - Altitude",Intercept,fixed,0.012,-0.24 - 0.273,4940
+"Taxonomic, univariate - Altitude",Clade S r O,fixed,-0.878,-1.352 - -0.436,4940
+"Taxonomic, univariate - Altitude",Altitude,fixed,0.024,-0.002 - 0.051,4940
+"Taxonomic, univariate - Altitude",Altitude S r O,fixed,-0.026,-0.081 - 0.028,4940
+"Taxonomic, univariate - Altitude",genus:family:superfamily:parvorder:infraorder (Intercept),random,27%,26% - 28%,4940
+"Taxonomic, univariate - Altitude",family:superfamily:parvorder:infraorder (Intercept),random,15%,13% - 16%,4940
+"Taxonomic, univariate - Altitude",superfamily:parvorder:infraorder (Intercept),random,2%,2% - 3%,4940
+"Taxonomic, univariate - Altitude",parvorder,random,4%,2% - 7%,4940
+"Taxonomic, univariate - Altitude",infraorder,random,0%,0% - 0%,4940
+"Taxonomic, univariate - Altitude",residual variance,random,51%,47% - 55%,4940
+"Taxonomic, univariate - Habitat generalism",Intercept,fixed,0.019,-0.243 - 0.27,4874
+"Taxonomic, univariate - Habitat generalism",Clade S r O,fixed,-0.869,-1.321 - -0.412,4874
+"Taxonomic, univariate - Habitat generalism",Habitat generalism,fixed,0.064,0.04 - 0.089,4874
+"Taxonomic, univariate - Habitat generalism",Habitat generalism S r O,fixed,-0.026,-0.09 - 0.037,4874
+"Taxonomic, univariate - Habitat generalism",genus:family:superfamily:parvorder:infraorder (Intercept),random,27%,26% - 28%,4874
+"Taxonomic, univariate - Habitat generalism",family:superfamily:parvorder:infraorder (Intercept),random,15%,14% - 17%,4874
+"Taxonomic, univariate - Habitat generalism",superfamily:parvorder:infraorder (Intercept),random,2%,1% - 3%,4874
+"Taxonomic, univariate - Habitat generalism",parvorder,random,4%,2% - 7%,4874
+"Taxonomic, univariate - Habitat generalism",infraorder,random,0%,0% - 0%,4874
+"Taxonomic, univariate - Habitat generalism",residual variance,random,51%,47% - 55%,4874
+"Taxonomic, univariate - Migration",Intercept,fixed,0.019,-0.228 - 0.274,4940
+"Taxonomic, univariate - Migration",Clade S r O,fixed,-0.869,-1.332 - -0.433,4940
+"Taxonomic, univariate - Migration",Migration,fixed,0.056,0.03 - 0.083,4940
+"Taxonomic, univariate - Migration",Migration S r O,fixed,-0.005,-0.081 - 0.069,4940
+"Taxonomic, univariate - Migration",genus:family:superfamily:parvorder:infraorder (Intercept),random,27%,26% - 28%,4940
+"Taxonomic, univariate - Migration",family:superfamily:parvorder:infraorder (Intercept),random,14%,12% - 16%,4940
+"Taxonomic, univariate - Migration",superfamily:parvorder:infraorder (Intercept),random,2%,2% - 3%,4940
+"Taxonomic, univariate - Migration",parvorder,random,4%,2% - 7%,4940
+"Taxonomic, univariate - Migration",infraorder,random,0%,0% - 0%,4940
+"Taxonomic, univariate - Migration",residual variance,random,52%,48% - 56%,4940
+"Taxonomic, univariate - Species richness",Intercept,fixed,0.008,-0.247 - 0.268,4940
+"Taxonomic, univariate - Species richness",Clade S r O,fixed,-0.856,-1.328 - -0.413,4940
+"Taxonomic, univariate - Species richness",Species richness,fixed,0.001,-0.031 - 0.034,4940
+"Taxonomic, univariate - Species richness",Species richness S r O,fixed,-0.035,-0.091 - 0.02,4940
+"Taxonomic, univariate - Species richness",genus:family:superfamily:parvorder:infraorder (Intercept),random,27%,26% - 28%,4940
+"Taxonomic, univariate - Species richness",family:superfamily:parvorder:infraorder (Intercept),random,15%,13% - 16%,4940
+"Taxonomic, univariate - Species richness",superfamily:parvorder:infraorder (Intercept),random,2%,2% - 3%,4940
+"Taxonomic, univariate - Species richness",parvorder,random,4%,2% - 8%,4940
+"Taxonomic, univariate - Species richness",infraorder,random,0%,0% - 0%,4940
+"Taxonomic, univariate - Species richness",residual variance,random,51%,47% - 55%,4940
+"Taxonomic, univariate - Tree cover",Intercept,fixed,0.036,-0.222 - 0.309,4856
+"Taxonomic, univariate - Tree cover",Clade S r O,fixed,-0.879,-1.337 - -0.415,4856
+"Taxonomic, univariate - Tree cover",Tree cover,fixed,-0.087,-0.115 - -0.058,4856
+"Taxonomic, univariate - Tree cover",Tree cover S r O,fixed,0.036,-0.025 - 0.097,4856
+"Taxonomic, univariate - Tree cover",genus:family:superfamily:parvorder:infraorder (Intercept),random,26%,25% - 27%,4856
+"Taxonomic, univariate - Tree cover",family:superfamily:parvorder:infraorder (Intercept),random,14%,13% - 16%,4856
+"Taxonomic, univariate - Tree cover",superfamily:parvorder:infraorder (Intercept),random,4%,3% - 6%,4856
+"Taxonomic, univariate - Tree cover",parvorder,random,4%,2% - 7%,4856
+"Taxonomic, univariate - Tree cover",infraorder,random,0%,0% - 0%,4856
+"Taxonomic, univariate - Tree cover",residual variance,random,51%,47% - 55%,4856

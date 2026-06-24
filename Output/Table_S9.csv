@@ -1,0 +1,13 @@
+term,type,estimate,95%CI,N
+Intercept,fixed,-0.012,-0.03 - 0.005,679
+Clade S r O,fixed,-0.019,-0.066 - 0.027,679
+migrationresident,fixed,0.021,0.002 - 0.041,679
+migrationstrict,fixed,-0.026,-0.054 - 0.003,679
+cladeSuboscines:migrationresident,fixed,0.014,-0.037 - 0.065,679
+cladeSuboscines:migrationstrict,fixed,0.029,-0.049 - 0.102,679
+genus:family:superfamily:parvorder:infraorder (Intercept),random,0%,0% - 0%,679
+family:superfamily:parvorder:infraorder (Intercept),random,0%,0% - 0%,679
+superfamily:parvorder:infraorder (Intercept),random,0%,0% - 0%,679
+parvorder,random,0%,0% - 0%,679
+infraorder,random,0%,0% - 0%,679
+residual variance,random,100%,100% - 100%,679

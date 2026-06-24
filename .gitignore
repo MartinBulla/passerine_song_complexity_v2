@@ -1,0 +1,33 @@
+# Ignore everything
+/*
+
+# also in subdirectories
+/*/
+
+# Except for (add what you want to track)
+!README.md
+!.gitignore
+!LICENSE
+!LICENSE.txt
+
+!/Data/
+!/R/
+!/Output/
+!/Resources/
+
+# Ignore everything in freeze (even if in Except)
+freeze/
+
+# Make sure the following is alway ignored even if in Except
+MS/
+Output/tree_for_Inkscape.pdf
+.DS_Store
+*_cache/
+*_files/
+
+MS_files/
+MS_cache/
+Data/DAT_rangeMapper.sqlite
+Data/DAT_rangeMapper_all.sqlite
+
+# End
