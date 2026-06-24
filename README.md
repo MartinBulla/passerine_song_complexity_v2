@@ -6,9 +6,9 @@
 
 ## Supporting information for 'Global patterns and evolution of avian song complexity'
 
-Contains data, R code and resources used to reproduce the analyses and outputs for [Bulla et al. (2026)](ADD-LINK-TO-PREPRINT).
+Contains data, R code, and resources used to reproduce the analyses and outputs for [Bulla et al. (2026)](ADD-LINK-TO-PREPRINT).
 
-When referring to or reusing these materials, **please cite** our [Bulla et al. (2026)](ADD-LINK-TO-PREPRINT) and this repository<sup>[1](#1)</sup>.
+When referring to or reusing these materials, **please cite** our [Bulla et al. (2026) Link to be ADDED](ADD-LINK-TO-PREPRINT) and this repository<sup>[1](#1)</sup>.
 
 ***
 
@@ -41,10 +41,14 @@ When referring to or reusing these materials, **please cite** our [Bulla et al. 
 - [_bib.bib](Resources/_bib.bib) bibliography used in the HTML [Supporting information](https://martinbulla.github.io/passerine_song_complexity_v2/).
 - [styles.css](Resources/styles.css) define graphical parameters for the HTML generation.
 
-[LICENSE](LICENSE): terms of reuse.
+### License and reuse
+
+*Author-generated materials* in this repository, including primary song data, derived data, scripts, figures, tables, outputs, and HTML supporting information, are licensed under the Creative Commons Attribution 4.0 International License [CC-BY-4.0](LICENSE).
+
+*Third-party published-source datasets and Birds of the World illustrations* included or referenced in this repository remain subject to the licenses, terms of use, and citation requirements of their original sources.
 
 ### Version history
-- v2.0.0: This is the first public release of the `passerine_song_complexity_v2` repository. The version number reflects the transition from an earlier internal working repository.
+- v2.0.0: This is the first public release of this `passerine_song_complexity_v2` repository. The version number reflects the transition from an earlier internal working repository.
 
 ***
 
