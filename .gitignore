@@ -4,8 +4,8 @@
 # Except for (add what you want to track)
 !README.md
 !.gitignore
+!index.html
 !LICENSE
-!LICENSE.txt
 
 !/Data/
 !/R/
