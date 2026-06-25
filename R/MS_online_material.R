@@ -29,7 +29,7 @@ knitr::opts_chunk$set(message = FALSE, warning = FALSE, cache = FALSE, fig.retin
 #'
 #' `Residual` in tables indicates residual variance.
 #'
-#' When referring to or reusing these materials, **please cite** our [preprint](ADD LINK TO A PREPRINT) and this repository [@bulla2026].
+#' When referring to or reusing these materials, **please cite** this repository [@bulla2026].
 #'
 #' ## Repository contents
 #'
@@ -307,7 +307,7 @@ f1
 #' <a name="F_1">**Figure 1</a> | Global distribution of 18,488 analyzed passerine song recordings.** Each point represents one recording. Color denotes clade: Suboscines (largely innate song; blue) and Oscines (song learners; orange).
 #'
 #'
-#' We defined song complexity as the number of different element types in a sequence of 50 song elements (for details see [@bulla2026]). Our measure correlates positively with published metrics of song complexity (Fig. [S1](#F_S1)) [@bulla2026], such as syllable repertoire size (r = `r round(cor(log10(scd$syllable_rep), log10(scd$element_types_extrapol_mean), method = c("pearson"), use = "complete.obs"),2)`; N = `r nrow(scd[!is.na(syllable_rep)])` species), number of unique syllables per song (r = `r round(cor(log10(scd$syllables_per_song), log10(scd$element_types_extrapol_mean), method = c("pearson"), use = "complete.obs"),2)`; N = `r nrow(scd[!is.na(syllables_per_song)])`), and song repertoire size (r = `r round(cor(log10(scd$song_rep), log10(scd$element_types_extrapol_mean), method = c("pearson"), use = "complete.obs"),2)`; N = `r nrow(scd[!is.na(song_rep)])`), as well as with size of HVC (proper name) [@moore2011a], an avian brain`region involved in song production and vocal learning (r =`r round(cor(log10(hvcd$hvc), log10(hvcd$element_types_extrapol_mean), method = c("pearson")),2)`; N = `r nrow(hvcd[!is.na(hvc)])`).
+#' We defined song complexity as the number of different element types in a sequence of 50 song elements (for details see [@bulla2026]). Our measure correlates positively with published metrics of song complexity (Fig. [S1](#F_S1)) [@bulla2026], such as syllable repertoire size (r = `r round(cor(log10(scd$syllable_rep), log10(scd$element_types_extrapol_mean), method = c("pearson"), use = "complete.obs"),2)`; N = `r nrow(scd[!is.na(syllable_rep)])` species), number of unique syllables per song (r = `r round(cor(log10(scd$syllables_per_song), log10(scd$element_types_extrapol_mean), method = c("pearson"), use = "complete.obs"),2)`; N = `r nrow(scd[!is.na(syllables_per_song)])`), and song repertoire size (r = `r round(cor(log10(scd$song_rep), log10(scd$element_types_extrapol_mean), method = c("pearson"), use = "complete.obs"),2)`; N = `r nrow(scd[!is.na(song_rep)])`), as well as with size of HVC (proper name) [@moore2011a], an avian brain region involved in song production and vocal learning (r =`r round(cor(log10(hvcd$hvc), log10(hvcd$element_types_extrapol_mean), method = c("pearson")),2)`; N = `r nrow(hvcd[!is.na(hvc)])`).
 #'
 #+ F_S1, fig.width=10, fig.height = 2.5
 g1 <- ggplot(scd, aes(x = syllable_rep, y = element_types_extrapol_mean)) +

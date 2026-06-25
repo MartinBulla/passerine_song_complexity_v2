@@ -6,9 +6,9 @@
 
 ## Supporting information for 'Global patterns and evolution of avian song complexity'
 
-Contains data, R code, and resources used to reproduce the analyses and outputs for [Bulla et al. (2026)](ADD-LINK-TO-PREPRINT).
+Contains data, R code, and resources used to reproduce the analyses and outputs for Bulla et al. (2026).
 
-When referring to or reusing these materials, **please cite** our [Bulla et al. (2026) Link to be ADDED](ADD-LINK-TO-PREPRINT) and this repository<sup>[1](#1)</sup>.
+When referring to or reusing these materials, **please cite** this repository<sup>[1](#1)</sup>.
 
 ***
 
