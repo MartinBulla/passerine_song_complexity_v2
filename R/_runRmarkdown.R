@@ -3,7 +3,6 @@ require(rmarkdown)
 # run
 rmarkdown::render("R/MS_online_material.R", output_dir = "Output", output_file = "SI.html")
 
-
 # More general sweep: remove any leftover cache/files folders for this script
 junk <- list.files(
   path = here::here(),
