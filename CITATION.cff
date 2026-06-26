@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Supporting information for 'Global patterns and evolution of avian song complexity'"
+message: "When referring to or reusing these materials, please cite both the manuscript and this archived repository."
+type: software
+authors:
+  - family-names: Bulla
+    given-names: Martin
+  - family-names: Mikula
+    given-names: Peter
+version: 2.0.0
+date-released: 2026-06-25
+repository-code: "https://github.com/martinbulla/passerine_song_complexity_v2"
+url: "https://martinbulla.github.io/passerine_song_complexity_v2/"
+license: CC-BY-4.0
